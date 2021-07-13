@@ -1,6 +1,8 @@
 # International-Hiring-Strategy
 Using the 2017 - 2020 Stack Overflow dataset, we look at the data to help identify what specific features companies should promote when trying to recruit in different countries. 
 
+Blog Post can be found here: https://medium.com/@skava88/need-help-recruiting-staff-internationally-9f4a29ff2f44
+
 **Questions asked**
 3 questions were asked and answered using the 2017 - 2020 Stack Overflow dataset saved on my local drive. Questions were:
 1) How many respondents per country per year?
